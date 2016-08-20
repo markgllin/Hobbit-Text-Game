@@ -1,4 +1,4 @@
-# Mark Gee Lin. UCID: 10096521. T06.
+#T06.
 #This game is a simulation of the book "The Hobbit". It simulates the scene where Bilbo enters the cave of Smaug and tries to steal as much gold as he can.
 #This program can handle non-numerical values.
 #There are various game modes implemented, each triggered when the player reaches a certain stage of the game.
