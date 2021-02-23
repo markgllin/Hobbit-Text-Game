@@ -1,5 +1,5 @@
 # Hobbit-Text-Game
-First major programming project coded in Python from 3(?) years ago.
+First programming project coded in Python from 2013.
 
 This project is a text based game following the storyline of the Hobbit, specifically the scene where Bilbo Baggins is about to enter the cave guarded by Smaug.
 
@@ -18,4 +18,4 @@ Modes:
 	Debug mode can be enabled by entering '-1' when prompted to move player.Debug mode translates to 'godmode'.
 
 Issues/Errors:
-	This was my first (major) programming project and thus, does not have any error catching and/or proper coding etiquette. 
+	This was my first programming project and thus, does not have any error catching and/or proper coding etiquette. 
